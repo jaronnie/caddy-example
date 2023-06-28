@@ -3,6 +3,7 @@
 caddy example
 
 * [helloworld](helloworld)
+* [static-files](static-files)
 
 ## Reference
 
