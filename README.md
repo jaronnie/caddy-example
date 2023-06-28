@@ -4,6 +4,7 @@ caddy example
 
 * [helloworld](helloworld)
 * [static-files](static-files)
+* [reverse-proxy](reverse-proxy)
 
 ## Reference
 
