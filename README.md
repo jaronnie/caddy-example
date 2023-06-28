@@ -1,5 +1,5 @@
 # caddy-example
 
-caddy example 
+caddy example
 
-* [reverse-proxies](reverse-proxies)
+* [helloworld](helloworld)
